@@ -10,7 +10,7 @@ Packages used
 
 # Setup
 - Install Python 3.^
-- Run the `.exe` program from here
+- Run the `.exe` program from [here](https://github.com/ElijahRus250/AutoTyper/releases/tag/1.0.0)
 
 If you want to just run it from terminal install `tinker` and `pyautogui` then just run `python3 main.py`
 
