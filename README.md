@@ -14,4 +14,7 @@ Packages used
 
 If you want to just run it from terminal install `tinker` and `pyautogui` then just run `python3 main.py`
 
+# Screenshots
+![image](https://user-images.githubusercontent.com/64851720/122582643-5f3b7980-d026-11eb-9f0a-5062732ffdfb.png)
+
 This was my first python program ever so its basic but I find it cool, if you need help message me on discord - ElijahRus#9099 / 484411714637529088
