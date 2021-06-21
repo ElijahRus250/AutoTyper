@@ -24,7 +24,6 @@ canvas1.create_window(200, 100, window=label2)
 
 entry1 = tk.Entry (root) 
 
-# w = Text(200, 140, window=entry1, height=50, width=150)  
 
 canvas1.create_window(200, 100, window=entry1, height=50, width=150)
 print('Finished startup... The program should now be open...')
@@ -35,7 +34,7 @@ def typeMessage ():
     
     time.sleep(5)
     print('Starting typing at a 0.10 interval..')
-    pyautogui.write(x, interval=0.10)
+    pyautogui.typewrite(x, interval=0.10)
     print('Typing is now complete!')
 
     
